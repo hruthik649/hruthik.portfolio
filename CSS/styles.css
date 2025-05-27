@@ -1,12 +1,12 @@
 /* Global Styles */
 
-/* 
-     dark-green - #3c8453
-     sarly-beige - #bcaa96
-     dark grey - #222
-     light grey - #d3d4d6 
-     off-white - #f6f6f6
- */
+/*
+    dark-green - #3c8453
+    sarly-beige - #bcaa96
+    dark grey - #222
+    light grey - #d3d4d6
+    off-white - #f6f6f6
+*/
 
 html{
     box-sizing: border-box;
@@ -69,7 +69,7 @@ h3{
 
 /* Index */
 .home{
-    background : url(../images/bg-home-office-studio.jpg) no-repeat;
+    background : url(../images/profile.jpg) no-repeat; /* Changed to profile.jpg */
     background-size: cover ;
     display: flex;
     flex-direction: column;
@@ -101,7 +101,7 @@ h3{
     font-size: 1.5rem;
     position:fixed;
     top:5px;
-    left:5px;   
+    left:5px;
 }
 
 /* Profile */
